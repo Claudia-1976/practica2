@@ -10,6 +10,8 @@ La entrega fue realizada en un entorno Windows utilizando Visual Studio Code
 
 la version de Python es la solicitada 3.12.9
 
+las dependencias instaladas se detallan en requirements.txt
+
 ## Estructura del Proyecto
 ```
 PRACTICA2/
@@ -19,7 +21,6 @@ PRACTICA2/
 │── src/                 # Código fuente y funciones
 │   ├── __init__.py     # Modulo con funciones principales
 │── requirements.txt     # Dependencias del proyecto
-│   ├── venv/
+│   ├── venv/            # entorno virtual
 │── README.md            # Instrucciones y documentación
 │── .gitignore           # archivo de git para ignorar versionado
-```
