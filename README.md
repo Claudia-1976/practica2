@@ -12,6 +12,8 @@ la version de Python es la solicitada 3.12.9
 
 las dependencias instaladas se detallan en requirements.txt
 
+el ejercicio  para la entrega se encuentra en ejercicio10.ipynb
+
 ## Estructura del Proyecto
 ```
 PRACTICA2/
